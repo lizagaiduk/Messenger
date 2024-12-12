@@ -1,0 +1,3 @@
+port=1701
+serverName=MyServer
+bannedPhrases=kill,scam,spam,fake,drugs,hate,violence,racism,xenophobia,illegal,fat,suicide,self-harm,ugly,misogyny
